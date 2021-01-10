@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "ala",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_block"
+        }, 
+        "l": {
+            "item": "minecraft:iron_block"
+        },
+        "a": {
+            "item": "redskyll:redasia_block"
+        }
+    },
+    "result": {
+        "item": "redskyll:egg_iron",
+        "count": 1
+    }
+}

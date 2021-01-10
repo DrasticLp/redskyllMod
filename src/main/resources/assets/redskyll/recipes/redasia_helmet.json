@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:redasia_ingot"
+        }
+    },
+    "result": {
+        "item": "redskyll:redasia_helmet",
+        "count": 1
+    }
+}

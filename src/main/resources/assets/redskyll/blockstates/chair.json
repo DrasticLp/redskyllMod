@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "redskyll:chair" },
+        "facing=south": { "model": "redskyll:chair", "y": 180 },
+        "facing=west":  { "model": "redskyll:chair", "y": 270 },
+        "facing=east":  { "model": "redskyll:chair", "y": 90 }
+    }
+}

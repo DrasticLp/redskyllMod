@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iui",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_ingot"
+        },
+		"u": {
+			"item": "minecraft:diamond_chestplate"
+		}
+    },
+    "result": {
+        "item": "redskyll:kramazia_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "redskyll:trophy" },
+        "facing=south": { "model": "redskyll:trophy", "y": 180 },
+        "facing=west":  { "model": "redskyll:trophy", "y": 270 },
+        "facing=east":  { "model": "redskyll:trophy", "y": 90 }
+    }
+}

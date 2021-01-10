@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "vlv",
+        "uiu"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:moon_rock"
+        }, 
+        "l": {
+            "item": "redskyll:block_fuse"
+        }, 
+        "u": {
+            "item": "redskyll:redasia_block"
+        }, 
+        "v": {
+            "item": "redskyll:kramazia_ingot"
+        }
+    },
+    "result": {
+        "item": "redskyll:fuse_t2",
+        "count": 1
+    }
+}

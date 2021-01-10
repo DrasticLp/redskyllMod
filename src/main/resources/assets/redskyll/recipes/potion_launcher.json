@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "lul",
+        " l "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_block",
+            "data": 0
+        }, 
+        "l": {
+            "item": "redskyll:redasia_block"
+        },
+		"u": {
+            "item": "minecraft:glass_bottle",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "redskyll:potion_launcher",
+        "count": 1
+    }
+}

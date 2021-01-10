@@ -1,0 +1,6 @@
+{
+  "variants": {
+        "hanging=true": {"model": "redskyll:lantern_hanging"},
+        "hanging=false": {"model": "redskyll:lantern"}
+   }
+}

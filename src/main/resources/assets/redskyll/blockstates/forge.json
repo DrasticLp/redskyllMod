@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "redskyll:forge" },
+        "facing=south": { "model": "redskyll:forge", "y": 180 },
+        "facing=west":  { "model": "redskyll:forge", "y": 270 },
+        "facing=east":  { "model": "redskyll:forge", "y": 90 }
+    }
+}

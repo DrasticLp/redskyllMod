@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:dragonite_dust"
+        }, 
+        "l": {
+            "item": "redskyll:kramazia_block"
+        }
+    },
+    "result": {
+        "item": "redskyll:compressed_dragonite",
+        "count": 1
+    }
+}

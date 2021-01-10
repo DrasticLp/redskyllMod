@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "age=0": {"model": "redskyll:kiwi_0"},
+        "age=1": {"model": "redskyll:kiwi_1"},
+        "age=2": {"model": "redskyll:kiwi_2"},
+        "age=3": {"model": "redskyll:kiwi_3"},
+        "age=4": {"model": "redskyll:kiwi_4"},
+        "age=5": {"model": "redskyll:kiwi_5"},
+        "age=6": {"model": "redskyll:kiwi_6"},
+        "age=7": {"model": "redskyll:kiwi_7"}
+    }
+}

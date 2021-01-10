@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_ingot"
+        }
+    },
+    "result": {
+        "item": "redskyll:kramazia_block",
+        "count": 1
+    }
+}

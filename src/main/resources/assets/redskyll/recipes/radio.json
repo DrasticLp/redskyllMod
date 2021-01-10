@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lll",
+        "lil",
+        "lll"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:diamond_block",
+            "data": 0
+        }, 
+        "l": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "redskyll:radio",
+        "count": 1
+    }
+}

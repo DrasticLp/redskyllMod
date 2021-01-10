@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "uiu"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:log",
+            "data": 0
+        }, 
+        "l": {
+            "item": "redskyll:redasia_block"
+        }
+        , 
+        "u": {
+            "item": "redskyll:moon_rock"
+        }
+    },
+    "result": {
+        "item": "redskyll:sacrifice_pool",
+        "count": 1
+    }
+}

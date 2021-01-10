@@ -1,0 +1,6 @@
+{
+  "parent": "redskyll:block/template_hanging_lantern",
+  "textures": {
+    "lantern": "redskyll:blocks/lantern"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "redskyll:radio" },
+        "facing=south": { "model": "redskyll:radio", "y": 180 },
+        "facing=west":  { "model": "redskyll:radio", "y": 270 },
+        "facing=east":  { "model": "redskyll:radio", "y": 90 }
+    }
+}

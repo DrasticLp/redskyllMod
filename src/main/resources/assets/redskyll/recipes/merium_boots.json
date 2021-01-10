@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iui",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_ingot"
+        },
+		"u": {
+			"item": "minecraft:diamond_boots"
+		}
+    },
+    "result": {
+        "item": "redskyll:kramazia_boots",
+        "count": 1
+    }
+}

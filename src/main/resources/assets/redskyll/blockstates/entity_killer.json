@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "redskyll:entity_killer" },
+        "facing=south": { "model": "redskyll:entity_killer", "y": 180 },
+        "facing=west":  { "model": "redskyll:entity_killer", "y": 270 },
+        "facing=east":  { "model": "redskyll:entity_killer", "y": 90 }
+    }
+}

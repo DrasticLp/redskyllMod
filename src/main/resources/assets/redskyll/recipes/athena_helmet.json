@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_ingot"
+        }, 
+        "l": {
+            "item": "minecraft:dye",
+            "data": 2
+        }
+    },
+    "result": {
+        "item": "redskyll:athena_helmet",
+        "count": 1
+    }
+}

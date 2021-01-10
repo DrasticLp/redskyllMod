@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  i",
+        "iii",
+        "l l"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:planks",
+            "data": 0
+        }, 
+        "l": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "redskyll:chair",
+        "count": 1
+    }
+}

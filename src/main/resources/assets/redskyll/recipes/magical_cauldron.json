@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iai",
+        "ili",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:redasia_block"
+        }, 
+        "l": {
+            "item": "redskyll:compressed_kramazia"
+        },
+        "a": {
+            "item": "minecraft:cauldron"
+        }
+    },
+    "result": {
+        "item": "redskyll:magical_cauldron",
+        "count": 1
+    }
+}

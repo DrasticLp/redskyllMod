@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iai",
+        "ili",
+        "iri"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:compressed_kramazia"
+        }, 
+        "l": {
+            "item": "redskyll:magical_hoe"
+        },
+        "a": {
+            "item": "redskyll:kiwi"
+        },
+        "r": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "redskyll:totem",
+        "count": 1
+    }
+}

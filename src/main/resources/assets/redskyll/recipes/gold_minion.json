@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "ala",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_block"
+        }, 
+        "l": {
+            "item": "minecraft:gold_block"
+        },
+        "a": {
+            "item": "redskyll:redasia_block"
+        }
+    },
+    "result": {
+        "item": "redskyll:egg_gold",
+        "count": 1
+    }
+}

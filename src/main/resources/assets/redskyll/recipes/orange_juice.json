@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "a",
+        "i"
+    ],
+    "key": {
+        "a": {
+            "item": "redskyll:orange"
+        },
+        "i": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "redskyll:orange_juice",
+        "count": 1
+    }
+}

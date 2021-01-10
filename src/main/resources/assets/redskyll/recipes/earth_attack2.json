@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:dragonite_dust"
+        }, 
+        "l": {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "redskyll:earth_attack",
+        "count": 1
+    }
+}

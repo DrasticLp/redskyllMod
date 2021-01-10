@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  i",
+        " l ",
+        "l  "
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:compressed_kramazia",
+            "data": 0
+        }, 
+        "l": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "redskyll:staff",
+        "count": 1
+    }
+}

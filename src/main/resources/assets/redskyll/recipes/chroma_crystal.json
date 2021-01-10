@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "uiu"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_block"
+        }, 
+        "l": {
+            "item": "minecraft:diamond_block"
+        }
+        , 
+        "u": {
+            "item": "redskyll:redasia_block"
+        }
+    },
+    "result": {
+        "item": "redskyll:chroma_crystal",
+        "count": 1
+    }
+}

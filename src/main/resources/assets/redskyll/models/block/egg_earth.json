@@ -1,0 +1,6 @@
+{
+  "parent": "redskyll:block/dragon_egg_template",
+  "textures": {
+    "texture": "redskyll:blocks/earth_egg"
+  }
+}

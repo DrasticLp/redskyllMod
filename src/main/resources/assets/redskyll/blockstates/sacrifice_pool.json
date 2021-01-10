@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "level=0":
+        {
+            "model": "redskyll:sacrifice_pool_empty"
+        },
+        "level=1":
+        {
+            "model": "redskyll:sacrifice_pool_filled"
+        }
+    }
+}

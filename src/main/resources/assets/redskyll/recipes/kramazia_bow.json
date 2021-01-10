@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " /#",
+        "/u#",
+        " /#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "/": {
+            "item": "redskyll:kramazia_ingot"
+        },
+        "u": {
+            "item": "minecraft:bow"
+        }
+    },
+    "result": {
+        "item": "redskyll:kramazia_bow",
+        "count": 1
+    }
+}

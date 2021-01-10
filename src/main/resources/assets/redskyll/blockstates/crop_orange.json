@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "age=0": {"model": "redskyll:orange_0"},
+        "age=1": {"model": "redskyll:orange_1"},
+        "age=2": {"model": "redskyll:orange_2"},
+        "age=3": {"model": "redskyll:orange_3"},
+        "age=4": {"model": "redskyll:orange_4"},
+        "age=5": {"model": "redskyll:orange_5"},
+        "age=6": {"model": "redskyll:orange_6"},
+        "age=7": {"model": "redskyll:orange_7"}
+    }
+}

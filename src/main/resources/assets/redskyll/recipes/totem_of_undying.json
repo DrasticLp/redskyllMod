@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iwi",
+        "rur",
+        " r "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:emerald",
+            "data": 0
+        }, 
+        "r": {
+            "item": "minecraft:gold_block"
+        },
+        "u": {
+            "item": "redskyll:compressed_kramazia"
+        },
+        "w": {
+            "item": "minecraft:skull",
+            "data": 1
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}

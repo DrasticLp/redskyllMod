@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ivi",
+        "aqd",
+        "g g"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:wool",
+            "data": 15
+        }, 
+        "g": {
+            "item": "minecraft:stick"
+        }
+        , 
+        "v": {
+            "item": "redskyll:compressed_dragonite"
+        },
+        "a": {
+            "item": "redskyll:magma_ball"
+        },
+        "q": {
+            "item": "redskyll:ice_attack"
+        },
+        "d": {
+            "item": "redskyll:earth_attack"
+        }
+    },
+    "result": {
+        "item": "redskyll:incubator",
+        "count": 1
+    }
+}

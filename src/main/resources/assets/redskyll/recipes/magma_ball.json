@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:dragonite_dust"
+        }, 
+        "l": {
+            "item": "minecraft:magma"
+        }
+    },
+    "result": {
+        "item": "redskyll:magma_ball",
+        "count": 1
+    }
+}

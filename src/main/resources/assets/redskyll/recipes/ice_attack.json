@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:dragonite_dust"
+        }, 
+        "l": {
+            "item": "minecraft:ice"
+        }
+    },
+    "result": {
+        "item": "redskyll:ice_attack",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "redskyll:items/kramazia_bow_pulling_1"
+    }
+}

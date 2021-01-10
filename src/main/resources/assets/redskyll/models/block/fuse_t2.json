@@ -1,0 +1,6 @@
+{
+    "parent": "redskyll:block/block_fuse_template",
+    "textures": {
+    "texture": "redskyll:blocks/fuse_t2"
+    }
+}

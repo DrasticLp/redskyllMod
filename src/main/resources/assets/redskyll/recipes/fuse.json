@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aia",
+        "ili",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:redasia_block"
+        }, 
+        "l": {
+            "item": "minecraft:diamond_block"
+        },
+        "a": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "redskyll:block_fuse",
+        "count": 1
+    }
+}

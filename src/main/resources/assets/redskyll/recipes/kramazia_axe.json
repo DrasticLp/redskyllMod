@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ii",
+        "il",
+        " l"
+    ],
+    "key": {
+        "i": {
+            "item": "redskyll:kramazia_ingot"
+        },
+        "l": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "redskyll:kramazia_axe",
+        "count": 1
+    }
+}

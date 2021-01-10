@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ili",
+        "uiu"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:sugar"
+        }, 
+        "l": {
+            "item": "redskyll:redasia_ingot"
+        }
+        , 
+        "u": {
+            "item": "minecraft:golden_apple",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "redskyll:magical_gelly",
+        "count": 1
+    }
+}

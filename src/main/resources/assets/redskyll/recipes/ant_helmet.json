@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ili",
+        "uiu"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_block"
+        }, 
+        "l": {
+            "item": "redskyll:redasia_block"
+        }
+        , 
+        "u": {
+            "item": "redskyll:compressed_kramazia"
+        }
+    },
+    "result": {
+        "item": "redskyll:ant_helmet",
+        "count": 1
+    }
+}

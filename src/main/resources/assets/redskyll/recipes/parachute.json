@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "l l",
+        " l "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:wool",
+            "data": 0
+        }, 
+        "l": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "redskyll:parachute",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "redskyll",
+  "name": "Redskyll Mod",
+  "description": "Un Mod Fait Pour Redskyll",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DrasticLp"],
+  "credits": "Merci à PlagueZ car il m'a aidé pour la fusée",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

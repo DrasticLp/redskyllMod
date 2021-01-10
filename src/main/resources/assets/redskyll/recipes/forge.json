@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "l l",
+        "i i",
+        "uiu"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:bucket"
+        },
+        "l": {
+            "item": "redskyll:scorpion_telson"
+        },
+        "u": {
+            "item": "redskyll:compressed_dragonite"
+        }
+    },
+    "result": {
+        "item": "redskyll:forge",
+        "count": 1
+    }
+}

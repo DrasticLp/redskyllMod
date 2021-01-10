@@ -1,0 +1,44 @@
+{
+    "entity.fuse.idle": 
+    {
+        "category": "entity",
+        "subtitle": "entity.fuse.idle",
+        "sounds": [{ "name": "redskyll:entity/fuse/idle", "stream": true}]
+    }, 
+    "entity.fuse.launch": 
+    {
+        "category": "entity",
+        "subtitle": "entity.fuse.launch",
+        "sounds": [{ "name": "redskyll:entity/fuse/launch", "stream": true}]
+    },
+    "armor.kramazia":
+    {
+        "category": "record",
+        "subtitle": "armor.kramazia",
+        "sounds": [{ "name": "redskyll:armor/kramazia", "stream": true}]
+    }, 
+    "block.radio.play":
+    {
+        "category": "block",
+        "subtitle": "block.radio.play",
+        "sounds": [{ "name": "redskyll:block/radio/play", "stream": true}]
+    },
+    "entity.redskyll.rage1":
+    {
+        "category": "entity",
+        "subtitle": "entity.redskyll.rage1",
+        "sounds": [{ "name": "redskyll:entity/redskyll/rage1", "stream": true}]
+    },
+    "entity.redskyll.rage2":
+    {
+        "category": "entity",
+        "subtitle": "entity.redskyll.rage2",
+        "sounds": [{ "name": "redskyll:entity/redskyll/rage2", "stream": true}]
+    },
+    "entity.redskyll.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.redskyll.ambient",
+        "sounds": [{ "name": "redskyll:entity/redskyll/ambient", "stream": true}]
+    }
+}

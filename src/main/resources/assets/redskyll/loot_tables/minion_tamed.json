@@ -1,0 +1,26 @@
+{
+    "pools": [
+        {
+            "name": "Minion Tamed",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "redskyll:minion",
+                    "conditions": [
+                        {
+                            "condition": "killed_by_player"
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "redskyll:blocks/oiling_machine_top",
+        "front": "redskyll:blocks/oiling_machine_front",
+        "side": "redskyll:blocks/oiling_machine_side",
+        "bottom": "redskyll:blocks/oiling_machine_bottom"
+    }
+}

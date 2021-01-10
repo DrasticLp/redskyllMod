@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "redskyll:totem" },
+        "facing=south": { "model": "redskyll:totem", "y": 180 },
+        "facing=west":  { "model": "redskyll:totem", "y": 270 },
+        "facing=east":  { "model": "redskyll:totem", "y": 90 }
+    }
+}
