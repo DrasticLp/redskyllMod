@@ -76,7 +76,6 @@ public class RegistryHandler
         GameRegistry.registerWorldGenerator(new WorldGenCustomOres(), 0);
         GameRegistry.registerWorldGenerator(new WorldGenCustomStructures(), 0);
 
-        //BiomeInit.registerBiomes();
         DimensionInit.registerDimensions();
         EntityInit.regiterEntities();
         if(e.getSide().isClient())

@@ -25,7 +25,6 @@ import net.minecraft.world.World;
 
 public class BlockBasic extends Block implements IHasModel
 {
-
     public BlockBasic(String name, Material material)
     {
         super(material);
@@ -42,5 +41,4 @@ public class BlockBasic extends Block implements IHasModel
     {
         Main.proxy.registerItemRederer(Item.getItemFromBlock(this), 0);
     }
-
 }
